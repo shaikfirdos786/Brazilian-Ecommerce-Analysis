@@ -15,29 +15,40 @@ A Power BI project analyzing **Brazil’s leading e-commerce platform — Olist*
 
 ## 📁 Project Structure
 
-📂 Brazilian-Ecommerce-Dashboard
+📂 Brazilian-Ecommerce-Analysis
 │
 ├── 📁 dashboard
 │   ├── dashboard1.png
 │   └── dashboard2.png
-│
-├── 📁 data
-│   └── (Contains source data files used in the report)
-│
 ├── 📁 images
 │   └── (Icons, logos, and images used in the project)
-│
-├── 📁 report
-│   └── (Contains the main Power BI file)
+│ 
 │
 └── README.md
+
+
+> ⚠️ **Note:** Full datasets and Power BI `.pbix` file are **not included** due to file size.  
+
+---
+
+## 📂 Dataset
+
+Public dataset from Kaggle:  
+🔗 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+---
+
+## 📄 Power BI File
+
+Download the full **Power BI report** here:  
+🔗 [Olist E-Commerce Power BI Report (.pbix)](https://drive.google.com/yourlink)
 
 ---
 
 ## 📊 Dashboards Overview
 
 ### 💼 **Dashboard 1: Sales & Performance Overview**
-- Analyzes **order trends**, **payment methods**, and **top-performing products**.  
+- Analyzes **order trends**, **payment types**, and **top-performing products**.  
 - Visualizes **order status counts**, **sales distribution**, and **payment type ratios**.  
 - Helps identify top-selling items and preferred customer payment channels.
 
@@ -74,22 +85,6 @@ A Power BI project analyzing **Brazil’s leading e-commerce platform — Olist*
 
 ---
 
-## 📂 Dataset
-
-Public dataset from Kaggle:  
-🔗 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-
----
-
-## 📋 Report Summary
-
-The **`report/`** folder includes:
-- Documentation and insights  
-- KPI formulas and visual design notes  
-- Summary of key findings  
-
----
-
 ## 👨‍💻 Author
 
 **Firdos Shaik**  
@@ -107,3 +102,4 @@ Aspiring Data Analyst | Power BI Developer
 `#CustomerInsights` `#DataVisualization` `#OlistProject` `#DataDriven`
 
 ---
+
