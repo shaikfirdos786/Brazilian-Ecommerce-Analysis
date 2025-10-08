@@ -41,7 +41,7 @@ Public dataset from Kaggle:
 ## 📄 Power BI File
 
 Download the full **Power BI report** here:  
-🔗 [Olist E-Commerce Power BI Report (.pbix)](https://drive.google.com/file/d/1gONGQP63V0iAsS7fbissXF2YNuoSLB-Y/view?usp=drive_link)
+🔗 [Olist E-Commerce Power BI Report (.pbix)](https://drive.google.com/file/d/1gONGQP63V0iAsS7fbissXF2YNuoSLB-Y/view?usp=sharing)
 
 ---
 
