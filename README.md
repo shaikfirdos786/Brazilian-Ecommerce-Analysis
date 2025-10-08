@@ -34,7 +34,7 @@ A Power BI project analyzing **Brazil’s leading e-commerce platform — Olist*
 ## 📂 Dataset
 
 Public dataset from Kaggle:  
-<a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce" target="_blank">🔗 Brazilian E-Commerce Public Dataset by Olist</a>
+🔗 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
